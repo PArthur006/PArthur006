@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Bacharelado em Engenharia de Software-UnB<br>Desenvolvedor Front-End👨‍💻</p>
+<p align="left"> Bacharelando em Engenharia de Software, Universidade de Brasília (UnB)<br>Desenvolvedor Front-End👨‍💻</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐭𝐞́𝐜𝐧𝐢𝐜𝐚𝐬<br><br>- HTML5 e CSS3;<br>- JavaScript;<br>- Linguagem C;<br><br>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐢𝐝𝐚𝐝𝐞𝐬 𝐈𝐧𝐭𝐞𝐫𝐩𝐞𝐬𝐬𝐨𝐚𝐢𝐬<br><br>- Liderança;<br>- Proatividade;<br>- Resolução de Conflitos;<br><br> > Sempre buscando a excelência pessoal e profissional. < <br></p>
+<p align="left">𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐭𝐞́𝐜𝐧𝐢𝐜𝐚𝐬<br><br>- HTML5 e CSS3;<br>- JavaScript;<br>- NodeJS;<br>- React;<br>- Linguagem C;<br><br>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐢𝐝𝐚𝐝𝐞𝐬 𝐈𝐧𝐭𝐞𝐫𝐩𝐞𝐬𝐬𝐨𝐚𝐢𝐬<br><br>- Liderança;<br>- Proatividade;<br>- Resolução de Conflitos;<br><br> > Sempre buscando a excelência pessoal e profissional.<br></p>
 
 ###
 
