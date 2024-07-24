@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐭𝐞́𝐜𝐧𝐢𝐜𝐚𝐬<br><br>- HTML5 e CSS3: Domínio avançado em desenvolvimento de páginas web.<br>- JavaScript: Buscando aprimoramento.<br>- C e C++: Desenvolvimento em C.<br><br>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐢𝐝𝐚𝐝𝐞𝐬 𝐈𝐧𝐭𝐞𝐫𝐩𝐞𝐬𝐬𝐨𝐚𝐢𝐬<br><br>- Liderança: Capacidade de liderar equipes e projetos.<br>- Proatividade: Iniciativa para identificar e resolver problemas de forma independente.<br>- Resolução de Conflitos: Experiência em mediar e resolver problemas de maneira eficaz.<br>- Constante evolução: Sempre buscando a excelência pessoal e profissional.<br><br>𝐈𝐝𝐢𝐨𝐦𝐚𝐬<br><br>- Português: Nativo<br>- Espanhol: Avançado<br>- Inglês: Básico</p>
+<p align="left">𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐭𝐞́𝐜𝐧𝐢𝐜𝐚𝐬<br><br>- HTML5 e CSS3;<br>- JavaScript;<br>- Linguagem C;<br><br>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐢𝐝𝐚𝐝𝐞𝐬 𝐈𝐧𝐭𝐞𝐫𝐩𝐞𝐬𝐬𝐨𝐚𝐢𝐬<br><br>- Liderança;<br>- Proatividade;<br>- Resolução de Conflitos;<br><br> > Sempre buscando a excelência pessoal e profissional. < <br></p>
 
 ###
 
