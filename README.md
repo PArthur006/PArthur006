@@ -15,7 +15,7 @@
 ###
 
 <p align="left">
-  <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐓𝐞́𝐜𝐧𝐢𝐜𝐚𝐬</strong><br><br>
+  <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐓𝐞𝐜𝐧𝐢𝐜𝐚𝐬</strong><br><br>
   - HTML5;<br>
   - CSS3;<br>
   - Linguagem C;<br><br>
