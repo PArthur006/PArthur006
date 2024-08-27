@@ -26,9 +26,9 @@
   - React;<br><br>
   
   <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐈𝐧𝐭𝐞𝐫𝐩𝐞𝐬𝐬𝐨𝐚𝐢𝐬</strong><br><br>
-  - Liderança;<br>
+  - Trabalho em equipe;<br>
   - Proatividade;<br>
-  - Resolução de Conflitos;<br><br>
+  - Resolução eficaz de problemas;<br><br>
   
   > Sempre buscando a excelência pessoal e profissional.
 </p>
