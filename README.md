@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Atualmente cursando o 1º semestre de Engenharia de Software, possuo conhecimentos avançados em HTML5 e CSS3, e estou buscando evoluir meu conhecimento em JavaScript, React e NodeJS. Possuo também conhecimento na área de desenvolvimento em linguagem C.</p>
+<p align="left">Atualmente cursando o 2º semestre de Engenharia de Software, possuo conhecimentos avançados em HTML5 e CSS3, e estou buscando evoluir meu conhecimento em JavaScript, React e NodeJS. Possuo também conhecimento na área de desenvolvimento em linguagem C.</p>
 
 ###
 
