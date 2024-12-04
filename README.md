@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Atualmente cursando o 2º semestre de Engenharia de Software, possuo conhecimentos avançados em HTML5 e CSS3, e estou buscando evoluir meu conhecimento em JavaScript, React e NodeJS. Possuo também conhecimento na área de desenvolvimento em linguagem C.</p>
+<p align="left">Atualmente cursando o 2º semestre de Engenharia de Software, possuo conhecimentos avançados em HTML5 e CSS3, e estou buscando evoluir meu conhecimento em JavaScript, React e NodeJS. Possuo também conhecimento na área de desenvolvimento em linguagem C e GDScript.</p>
 
 ###
 
@@ -23,11 +23,13 @@
   <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐞𝐦 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨</strong><br><br>
   - JavaScript;<br>
   - NodeJS;<br>
-  - React;<br><br>
+  - React;<br>
+  - Linguagem GDScript;<br><br>
   
   <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐈𝐧𝐭𝐞𝐫𝐩𝐞𝐬𝐬𝐨𝐚𝐢𝐬</strong><br><br>
   - Trabalho em equipe;<br>
   - Proatividade;<br>
+  - Organização;<br>
   - Resolução eficaz de problemas;<br><br>
   
   > Sempre buscando a excelência pessoal e profissional.
