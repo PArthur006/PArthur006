@@ -10,15 +10,17 @@
 
 ###
 
-<p align="left">Atualmente cursando o 2º semestre de Engenharia de Software, possuo conhecimentos avançados em HTML5 e CSS3, e estou buscando evoluir meu conhecimento em JavaScript, React e NodeJS. Possuo também conhecimento na área de desenvolvimento em linguagem C e GDScript.</p>
+<p align="left">Atualmente cursando o 2º semestre de Engenharia de Software, possuo conhecimentos avançados em HTML5 e CSS3, e estou buscando evoluir meu conhecimento em JavaScript, React e NodeJS. Possuo também conhecimento na área de desenvolvimento em linguagem C, Python e GDScript.</p>
 
 ###
 
 <p align="left">
+  
   <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐓𝐞𝐜𝐧𝐢𝐜𝐚𝐬</strong><br><br>
   - HTML5;<br>
   - CSS3;<br>
-  - Linguagem C;<br><br>
+  - Linguagem C;<br>
+  - Python;<br><br>
   
   <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐞𝐦 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨</strong><br><br>
   - JavaScript;<br>
@@ -55,6 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="c logo"  />
 </div>
 
 ###
@@ -65,7 +69,7 @@
   </a>
   <a href="https://www.parthur.rodrigues06@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  </a><br>
   <a href="https://www.instagram.com/pedroarthurrod06/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
