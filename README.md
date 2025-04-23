@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Atualmente cursando o 3º semestre de Engenharia de Software, possuo conhecimentos avançados em HTML5 e CSS3, e estou buscando evoluir meu conhecimento em Java, JavaScript, React e NodeJS. Possuo também conhecimento na área de desenvolvimento em linguagem C, Python e GDScript.</p>
+<p align="left">Atualmente cursando o 3º semestre de Engenharia de Software, possuo conhecimentos avançados em HTML5 e CSS3, e estou buscando evoluir meu conhecimento em Java, JavaScript e React. Possuo também conhecimento na área de desenvolvimento em linguagem C, Python e GDScript.</p>
 
 ###
 
@@ -25,7 +25,6 @@
   <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐞𝐦 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨</strong><br><br>
   - Java;<br>
   - JavaScript;<br>
-  - NodeJS;<br>
   - React;<br>
   - Linguagem GDScript;<br><br>
   
@@ -53,15 +52,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
 </div>
 
 ###
