@@ -1,82 +1,65 @@
-<h2 align="center">Bem vindo!👋😉<br>Me chamo Pedro Arthur!</h2>
-
-###
-
-<p align="left"> Bacharelando em Engenharia de Software, Universidade de Brasília (UnB)<br>Desenvolvedor Front-End👨‍💻</p>
-
-###
-
-<h4 align="left">Sobre</h4>
-
-###
-
-<p align="left">Atualmente cursando o 3º semestre de Engenharia de Software, possuo conhecimentos avançados em HTML5 e CSS3, e estou buscando evoluir meu conhecimento em Java, JavaScript e React. Possuo também conhecimento na área de desenvolvimento em linguagem C, Python e GDScript.</p>
-
-###
+# Pedro Arthur Rodrigues
 
 <p align="left">
-  
-  <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐓𝐞𝐜𝐧𝐢𝐜𝐚𝐬</strong><br><br>
-  - HTML5;<br>
-  - CSS3;<br>
-  - Linguagem C;<br>
-  - Python;<br><br>
-  
-  <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐞𝐦 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨</strong><br><br>
-  - Java;<br>
-  - JavaScript;<br>
-  - React;<br>
-  - Linguagem GDScript;<br><br>
-  
-  <strong>𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 𝐈𝐧𝐭𝐞𝐫𝐩𝐞𝐬𝐬𝐨𝐚𝐢𝐬</strong><br><br>
-  - Trabalho em equipe;<br>
-  - Proatividade;<br>
-  - Organização;<br>
-  - Resolução eficaz de problemas;<br><br>
-  
-  > Sempre buscando a excelência pessoal e profissional.
+  <a href="https://www.linkedin.com/in/parthurrod06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:parthur.rodrigues06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://api.whatsapp.com/send/?phone=5561991709506&text=Oi+Pedro%2C+vim+pelo+GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
-###
+### Sobre Mim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PArthur006&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Sou estudante de Engenharia de Software na **Universidade de Brasília (UnB)** e um entusiasta do desenvolvimento web, com foco em criar interfaces de usuário interativas e eficientes.
 
-###
+- Atualmente estou aprimorando minhas habilidades em **React** e consolidando meus conhecimentos em **JavaScript**.
+- Busco ativamente por uma **oportunidade de estágio** onde possa aplicar meu conhecimento e colaborar em projetos desafiadores.
+- Tenho interesse em colaborar em projetos que envolvam tecnologias web modernas.
+- Fique à vontade para iniciar uma conversa sobre desenvolvimento, tecnologia ou qualquer projeto interessante!
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+### 🚀 Tecnologias e Ferramentas
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/parthurrod06/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.parthur.rodrigues06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a><br>
-  <a href="https://www.instagram.com/pedroarthurrod06/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=5561991709506&text=Oi+Pedro%2C+vim+pelo+GitHub.&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend</strong>
+      <ul>
+        <li>JavaScript (ES6+)</li>
+        <li>React</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend</strong>
+      <ul>
+        <li>Java</li>
+        <li>Python</li>
+        <li>C</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Ferramentas e Plataformas</strong>
+      <ul>
+        <li>Git & GitHub</li>
+        <li>Figma</li>
+        <li>Linux</li>
+      </ul>
+    </td>
+     <td valign="top" width="50%">
+      <strong>Games & Outros</strong>
+      <ul>
+        <li>Godot Engine</li>
+        <li>GDScript</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-###
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=PArthur006&locale=pt-br&layout=compact&theme=codeSTACKr&hide_border=true&langs_count=6" alt="Top Langs" />
+</p>
