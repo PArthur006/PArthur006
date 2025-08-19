@@ -1,73 +1,88 @@
-# Pedro Arthur Rodrigues
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/parthurrod06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:parthur.rodrigues06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://api.whatsapp.com/send/?phone=5561991709506&text=Hi+Pedro%2C+I+found+your+profile+on+GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
-
-### 👋 About Me
-
-I am a Software Engineering student at the **University of Brasília (UnB)** and a web development enthusiast, focused on creating interactive and efficient user interfaces.
-
-- 🔭 I’m currently honing my skills in **React** and building my personal projects.
-- 💼 I’m actively seeking an **internship opportunity** where I can apply my knowledge and collaborate on challenging projects.
-- 🤝 I’m open to collaborating on projects involving modern web technologies.
-- 💬 Feel free to start a conversation about development, technology, or any interesting projects!
-
----
-
-### 🚀 Technologies & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,sqlite,figma,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=java,python,c,nodejs,git,github,linux" />
-  </a>
-</p>
-
----
-
-### 💻 Pinned Projects
-
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">Decola-Brasil (Travel Agency App)</h3>
-      <p align="center">
-        <a href="https://github.com/PArthur006/epf-decola" target="_blank">
-          <img src="https://raw.githubusercontent.com/PArthur006/epf-decola/main/static/img/DECOLA-BRASIL_apresentacao.gif" alt="Decola-Brasil Project Demo"/>
+    <td width="50%" align="left" valign="top">
+      <h1 align="left">Olá, eu sou o Pedro Arthur! 👋</h1>
+      <p align="left">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Desenvolvedor+Front-End;Especialista+em+React" alt="Typing SVG" />
         </a>
-        <p align="center">
-          <a href="https://github.com/PArthur006/epf-decola" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          </p>
-        <p><strong>Tech Stack:</strong> A functional prototype of an airline reservation system developed with Python and the Bottle microframework. It features a full user booking flow, including an interactive seat selection map, built on MVC principles with a JSON-based data layer.</p>
+      </p>
+      <p align="left">
+        Estudante de Engenharia de Software na UnB, focado em transformar ideias em código limpo, eficiente e escalável.
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">Academic Management System</h3>
-      <p align="center">
-        <a href="https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/" target="_blank">
-          <img src="https://raw.githubusercontent.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/main/SIGA-FCTE/assets/SIGA-FCTE_apresentacao.gif" alt="Academic Management System Project Demo"/>
-        </a>
-        <p align="center">
-          <a href="https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Tech Stack:</strong> A robust desktop application built with Java and the Swing UI toolkit to manage an academic registry. The project's architecture is founded on Object-Oriented principles, features a custom persistence engine saving data to text files, and emphasizes a highly maintainable codebase through a clear, multi-layered design (Model-View-Persistence).</p>
-      </p>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/fac5d89e-c779-4200-9f89-24d5ca6f28a5" width="250px" alt="Pedro Arthur's Logo"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Sobre Mim e Meus Objetivos
+
+Minha paixão é construir aplicações web de alto impacto, com foco em criar experiências de usuário ricas e responsivas com **React**. Estou constantemente expandindo minhas habilidades para me tornar um profissional **"T-Shaped"**, com uma base sólida em **Back-End (Java/Python)** e **Cloud (OCI)**, para poder atuar no ciclo de vida completo de um produto digital.
+
+- 🔭 Atualmente focado no bootcamp Full Stack da DIO para dominar **React** e o ecossistema **.NET**.
+- 🌱 Aprendendo sobre **Cloud e DevOps**, me preparando para a certificação **OCI Foundations**.
+- 💬 Aberto para conversar sobre tecnologia, novas oportunidades e projetos colaborativos.
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=PArthur006&locale=en&layout=compact&theme=codeSTACKr&hide_border=true&langs_count=6" alt="Top Langs" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PArthur006&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <a href="https://my-portfolio-react-iota-one.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&width=300px&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+</p>
+
+---
+
+### 🛠️ Minhas Ferramentas e Tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,typescript,nodejs,express,java,python,c,dotnet,cs,sqlite,git,github,figma,linux,docker,aws,postman&perline=10" />
+  </a>
+</p>
+
+---
+
+### 💻 Projetos em Destaque
+
+<div align="center">
+
+#### ✈️ Decola-Brasil (Portal de Reservas Aéreas)
+*Um protótipo funcional de um portal de companhia aérea desenvolvido com Python e Bottle, aplicando princípios de MVC e persistência de dados com JSON.*
+
+[![Demo Decola-Brasil](https://raw.githubusercontent.com/PArthur006/epf-decola/main/static/img/DECOLA-BRASIL_apresentacao.gif)](https://github.com/PArthur006/epf-decola)
+
+**[➡️ Acessar Repositório](https://github.com/PArthur006/epf-decola)**
+
+---
+#### 🎓 SIGA (Sistema de Gestão Acadêmica)
+*Uma aplicação desktop robusta em Java com Swing para gerenciar um registro acadêmico, focada em Orientação a Objetos e um design de fácil manutenção.*
+
+[![Demo SIGA](https://raw.githubusercontent.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/main/SIGA-FCTE/assets/SIGA-FCTE_apresentacao.gif)](https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/)
+
+**[➡️ Acessar Repositório](https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/)**
+
+---
+
+</div>
+
+---
+
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PArthur006&locale=pt-br&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="languages graph"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=PArthur006&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /> 
+</p>
+
+---
+
+### 📫 Entre em Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parthurrod06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:parthur.rodrigues06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://api.whatsapp.com/send/?phone=5561991709506&text=Hi+Pedro%2C+I+found+your+profile+on+GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
