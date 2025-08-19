@@ -4,7 +4,7 @@
       <h1 align="left">Olá, eu sou o Pedro Arthur! 👋</h1>
       <p align="left">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Desenvolvedor+Front-End;Especialista+em+React" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Desenvolvedor+Full-Stack;Web-Designer" alt="Typing SVG" />
         </a>
       </p>
       <p align="left">
@@ -21,15 +21,16 @@
 
 ### 🚀 Sobre Mim e Meus Objetivos
 
-Minha paixão é construir aplicações web de alto impacto, com foco em criar experiências de usuário ricas e responsivas com **React**. Estou constantemente expandindo minhas habilidades para me tornar um profissional **"T-Shaped"**, com uma base sólida em **Back-End (Java/Python)** e **Cloud (OCI)**, para poder atuar no ciclo de vida completo de um produto digital.
+Sou estudante de **Engenharia de Software (UnB)** e **Desenvolvedor Full-Stack** em formação pelo **SENAI**. Minha carreira é dedicada a construir aplicações web de alto impacto, unindo uma especialidade em **Front-End com React** a uma base sólida e abrangente em **Back-End (Java, Python, .NET)** e **Cloud (OCI)**.
 
-- 🔭 Atualmente focado no bootcamp Full Stack da DIO para dominar **React** e o ecossistema **.NET**.
-- 🌱 Aprendendo sobre **Cloud e DevOps**, me preparando para a certificação **OCI Foundations**.
+- 🎓 Em qualificação profissional como **Desenvolvedor Full-Stack** pelo SENAI, aprofundando em arquitetura de software e desenvolvimento back-end.
+- 🔭 Focado em dominar o ecossistema **.NET**, aprender a linguagem **C#** e desenvolver meus conhecimentos em **React.js** através do bootcamp Full Stack da DIO.
+- 🌱 Aprendendo sobre **Cloud e DevOps**, me preparando para a certificação **OCI Foundations** da Oracle.
 - 💬 Aberto para conversar sobre tecnologia, novas oportunidades e projetos colaborativos.
 
 <p align="center">
   <a href="https://my-portfolio-react-iota-one.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&width=300px&logo=vercel&logoColor=white" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
 </p>
 
@@ -39,7 +40,7 @@ Minha paixão é construir aplicações web de alto impacto, com foco em criar e
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,typescript,nodejs,express,java,python,c,dotnet,cs,sqlite,git,github,figma,linux,docker,aws,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,java,python,c,dotnet,cs,sqlite,git,github,figma,linux,docker&perline=8" />
   </a>
 </p>
 
@@ -63,8 +64,6 @@ Minha paixão é construir aplicações web de alto impacto, com foco em criar e
 [![Demo SIGA](https://raw.githubusercontent.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/main/SIGA-FCTE/assets/SIGA-FCTE_apresentacao.gif)](https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/)
 
 **[➡️ Acessar Repositório](https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/)**
-
----
 
 </div>
 
