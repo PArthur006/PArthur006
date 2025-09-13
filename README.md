@@ -51,7 +51,7 @@ Sou estudante de **Engenharia de Software (UnB)** e **Desenvolvedor Full-Stack**
 <div align="center">
 
 #### ✈️ Decola-Brasil (Portal de Reservas Aéreas)
-*Um protótipo funcional de um portal de companhia aérea desenvolvido com Python e Bottle, aplicando princípios de MVC e persistência de dados com JSON.*
+*Um protótipo funcional de um portal de companhia aérea desenvolvido com Python e Bottle, aplicando princípios de MVC e persistência de dados com SQLite.*
 
 [![Demo Decola-Brasil](https://raw.githubusercontent.com/PArthur006/epf-decola/main/static/img/DECOLA-BRASIL_apresentacao.gif)](https://github.com/PArthur006/epf-decola)
 
