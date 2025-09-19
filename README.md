@@ -4,11 +4,11 @@
       <h1 align="left">Olá, eu sou o Pedro Arthur! 👋</h1>
       <p align="left">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Desenvolvedor+Full-Stack;Web-Designer" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Desenvolvedor+Full-Stack;Estudando+CiberSegurança" alt="Typing SVG" />
         </a>
       </p>
       <p align="left">
-        Estudante de Engenharia de Software na UnB, focado em transformar ideias em código limpo, eficiente e escalável.
+        Estudante de Engenharia de Software na UnB, focado em transformar ideias em código limpo, eficiente e, acima de tudo, <strong>seguro</strong>.
       </p>
     </td>
     <td width="50%" align="center" valign="top">
@@ -21,12 +21,13 @@
 
 ### 🚀 Sobre Mim e Meus Objetivos
 
-Sou estudante de **Engenharia de Software (UnB)** e **Desenvolvedor Full-Stack** em formação pelo **SENAI**. Minha carreira é dedicada a construir aplicações web de alto impacto, unindo uma especialidade em **Front-End com React** a uma base sólida e abrangente em **Back-End (Java, Python, .NET)** e **Cloud (OCI)**.
+Sou estudante de **Engenharia de Software (UnB)** e **Desenvolvedor Full-Stack** em formação. Minha paixão é construir aplicações web de alto impacto, unindo uma especialidade em **Front-End com React** a uma base sólida em **Back-End**.
+
+Atualmente, meu foco principal é aprimorar minhas habilidades como desenvolvedor, enquanto construo, em paralelo, um conhecimento profundo em **Cibersegurança**, com o objetivo de futuramente unir as duas áreas.
 
 - 🎓 Em qualificação profissional como **Desenvolvedor Full-Stack** pelo SENAI, aprofundando em arquitetura de software e desenvolvimento back-end.
-- 🔭 Focado em dominar o ecossistema **.NET**, aprender a linguagem **C#** e desenvolver meus conhecimentos em **React.js** através do bootcamp Full Stack da DIO.
-- 🌱 Aprendendo sobre **Cloud e DevOps**, me preparando para a certificação **OCI Foundations** da Oracle.
-- 💬 Aberto para conversar sobre tecnologia, novas oportunidades e projetos colaborativos.
+- 🌱 Estudando ativamente para a certificação **Cisco CCST Cybersecurity**, explorando temas como defesa de redes, segurança de endpoints e gerenciamento de ameaças.
+- 💬 Aberto para conversar sobre tecnologia, desenvolvimento seguro (DevSecOps) e novas oportunidades.
 
 <p align="center">
   <a href="https://my-portfolio-react-iota-one.vercel.app/" target="_blank">
@@ -40,7 +41,7 @@ Sou estudante de **Engenharia de Software (UnB)** e **Desenvolvedor Full-Stack**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,java,python,c,dotnet,cs,sqlite,git,github,figma,linux,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,java,python,cs,dotnet,sqlite,git,github,figma,linux,docker,kali,wireshark&perline=8" />
   </a>
 </p>
 
