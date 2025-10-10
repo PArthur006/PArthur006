@@ -4,11 +4,11 @@
       <h1 align="left">Olá, eu sou o Pedro Arthur! 👋</h1>
       <p align="left">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Desenvolvedor+Full-Stack;Estudando+CiberSegurança" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Estágio+em+Dados+%26+IA;Foco+em+Cibersegurança" alt="Typing SVG" />
         </a>
       </p>
       <p align="left">
-        Estudante de Engenharia de Software na UnB, focado em transformar ideias em código limpo, eficiente e, acima de tudo, <strong>seguro</strong>.
+        Estudante de Engenharia de Software na UnB e <strong>Estagiário de TI na First Decision</strong>, focado em usar a engenharia para construir soluções de dados que sejam não apenas funcionais, mas também <strong>robustas e seguras</strong>.
       </p>
     </td>
     <td width="50%" align="center" valign="top">
@@ -19,15 +19,13 @@
 
 ---
 
-### 🚀 Sobre Mim e Meus Objetivos
+### 🚀 Minha Jornada e Foco Atual
 
-Sou estudante de **Engenharia de Software (UnB)** e **Desenvolvedor Full-Stack** em formação. Minha paixão é construir aplicações web de alto impacto, unindo uma especialidade em **Front-End com React** a uma base sólida em **Back-End**.
+Minha paixão pela tecnologia me levou da Engenharia de Software para o universo da **Engenharia de Dados**, onde atuo hoje como estagiário. Meu objetivo é construir e automatizar os pipelines que garantem a integridade e a segurança das informações que movem o mundo digital.
 
-Atualmente, meu foco principal é aprimorar minhas habilidades como desenvolvedor, enquanto construo, em paralelo, um conhecimento profundo em **Cibersegurança**, com o objetivo de futuramente unir as duas áreas.
-
-- 🎓 Em qualificação profissional como **Desenvolvedor Full-Stack** pelo SENAI, aprofundando em arquitetura de software e desenvolvimento back-end.
-- 🌱 Estudando ativamente para a certificação **Cisco CCST Cybersecurity**, explorando temas como defesa de redes, segurança de endpoints e gerenciamento de ameaças.
-- 💬 Aberto para conversar sobre tecnologia, desenvolvimento seguro (DevSecOps) e novas oportunidades.
+- 🎓 Atuando como **Estagiário de TI na First Decision**, com foco em migração de dados, ETL, automação com Java, SQL e Shell Script.
+- 🌱 Estudando ativamente para a certificação **Cisco CCST Cybersecurity**, aprofundando em defesa de redes e gerenciamento de ameaças.
+- 💬 Aberto para conversar sobre Engenharia de Dados, desenvolvimento seguro (DevSecOps) e novas oportunidades.
 
 <p align="center">
   <a href="https://my-portfolio-react-iota-one.vercel.app/" target="_blank">
@@ -37,11 +35,18 @@ Atualmente, meu foco principal é aprimorar minhas habilidades como desenvolvedo
 
 ---
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+### 🛠️ Minha Caixa de Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Back-End e Dados** | `Java`, `Python`, `SQL (MySQL, SQLite)`, `Node.js`, `APIs REST`, `Pandas` |
+| **Infraestrutura e DevOps**| `Shell Script`, `Linux`, `Docker`, `Git`, `GitHub` |
+| **Cibersegurança** | `Kali Linux`, `Wireshark` |
+| **Front-End** | `React.js`, `JavaScript`, `HTML5`, `CSS3` |
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,java,python,cs,dotnet,sqlite,git,github,figma,linux,docker,kali,wireshark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,sqlite,linux,bash,react,javascript,html,css,nodejs,git,github,docker,kali,wireshark&perline=8" />
   </a>
 </p>
 
@@ -52,7 +57,7 @@ Atualmente, meu foco principal é aprimorar minhas habilidades como desenvolvedo
 <div align="center">
 
 #### ✈️ Decola-Brasil (Portal de Reservas Aéreas)
-*Um protótipo funcional de um portal de companhia aérea desenvolvido com Python e Bottle, aplicando princípios de MVC e persistência de dados com SQLite.*
+*Aplicação Back-End onde o foco foi a **arquitetura de software (MVC)** e a **segurança de dados**, com a implementação de hashing de senhas para proteger as informações dos usuários.*
 
 [![Demo Decola-Brasil](https://raw.githubusercontent.com/PArthur006/epf-decola/main/static/img/DECOLA-BRASIL_apresentacao.gif)](https://github.com/PArthur006/epf-decola)
 
@@ -60,7 +65,7 @@ Atualmente, meu foco principal é aprimorar minhas habilidades como desenvolvedo
 
 ---
 #### 🎓 SIGA (Sistema de Gestão Acadêmica)
-*Uma aplicação desktop robusta em Java com Swing para gerenciar um registro acadêmico, focada em Orientação a Objetos e um design de fácil manutenção.*
+*Aplicação desktop em **Java** que reforça conceitos de **Orientação a Objetos** e design de software, competências essenciais para os sistemas robustos que construo hoje.*
 
 [![Demo SIGA](https://raw.githubusercontent.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/main/SIGA-FCTE/assets/SIGA-FCTE_apresentacao.gif)](https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/)
 
