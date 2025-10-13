@@ -46,7 +46,7 @@ Minha paixão pela tecnologia me levou da Engenharia de Software para o universo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql,sqlite,linux,bash,react,javascript,html,css,nodejs,git,github,docker,kali,wireshark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,sqlite,linux,react,javascript,html,css,nodejs,git,github,docker,kali&perline=7" />
   </a>
 </p>
 
