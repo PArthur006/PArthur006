@@ -4,7 +4,7 @@
       <h1 align="left">Olá, eu sou o Pedro Arthur! 👋</h1>
       <p align="left">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Estágio+em+Dados+%26+IA;Foco+em+Cibersegurança" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Estagiário+em+Dados+%26+IA;Foco+em+Cibersegurança" alt="Typing SVG" />
         </a>
       </p>
       <p align="left">
