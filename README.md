@@ -23,7 +23,7 @@
 
 Minha paixão pela tecnologia me levou da Engenharia de Software para o universo da **Engenharia de Dados**, onde atuo hoje como estagiário. Meu objetivo é construir e automatizar os pipelines que garantem a integridade e a segurança das informações que movem o mundo digital.
 
-- 🎓 Atuando como **Estagiário de TI na First Decision**, com foco em migração de dados, ETL, automação com Java, SQL e Shell Script.
+- 🎓 Atuando como **Estagiário de TI na First Decision**, com foco em migração de dados, ETL, automação com Python, Pentaho PDI e SQL.
 - 🌱 Estudando ativamente para a certificação **Cisco CCST Cybersecurity**, aprofundando em defesa de redes e gerenciamento de ameaças.
 - 💬 Aberto para conversar sobre Engenharia de Dados, desenvolvimento seguro (DevSecOps) e novas oportunidades.
 
