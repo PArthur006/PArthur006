@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%" align="left" valign="top">
       <h1 align="left">Olá, eu sou o Pedro Arthur! 👋</h1>
@@ -7,15 +7,16 @@
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Estagiário+em+Dados+%26+IA;Foco+em+Cibersegurança" alt="Typing SVG" />
         </a>
       </p>
-      <p align="left">
-        Estudante de Engenharia de Software na UnB e <strong>Estagiário de TI na First Decision</strong>, focado em usar a engenharia para construir soluções de dados que sejam não apenas funcionais, mas também <strong>robustas e seguras</strong>.
-      </p>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/fac5d89e-c779-4200-9f89-24d5ca6f28a5" width="250px" alt="Pedro Arthur's Logo"/>
     </td>
   </tr>
 </table>
+
+<p align="left">
+        Estudante de Engenharia de Software na UnB e <strong>Estagiário de TI na First Decision</strong>, focado em usar a engenharia para construir soluções de dados que sejam não apenas funcionais, mas também <strong>robustas e seguras</strong>.
+      </p>
 
 ---
 
@@ -28,7 +29,7 @@ Minha paixão pela tecnologia me levou da Engenharia de Software para o universo
 - 💬 Aberto para conversar sobre Engenharia de Dados, desenvolvimento seguro (DevSecOps) e novas oportunidades.
 
 <p align="center">
-  <a href="https://my-portfolio-react-iota-one.vercel.app/" target="_blank">
+  <a href="https://parthur.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
 </p>
@@ -46,7 +47,7 @@ Minha paixão pela tecnologia me levou da Engenharia de Software para o universo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql,sqlite,linux,react,javascript,html,css,nodejs,git,github,docker,kali&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,sqlite,linux,react,javascript,nodejs,git,github,docker,kali&perline=6" />
   </a>
 </p>
 
@@ -78,8 +79,8 @@ Minha paixão pela tecnologia me levou da Engenharia de Software para o universo
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PArthur006&locale=pt-br&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="languages graph"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PArthur006&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PArthur006&locale=pt-br&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="languages graph"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=PArthur006&theme=dracula&show_icons=true&hide_border=false&count_private=true"/> 
 </p>
 
 ---
