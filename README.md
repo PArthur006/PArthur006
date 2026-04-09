@@ -1,94 +1,105 @@
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <h1 align="left">Olá, eu sou o Pedro Arthur! 👋</h1>
-      <p align="left">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=false&width=435&lines=Engenheiro+de+Software;Estagiário+em+Dados+%26+IA;Foco+em+Cibersegurança" alt="Typing SVG" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/fac5d89e-c779-4200-9f89-24d5ca6f28a5" width="250px" alt="Pedro Arthur's Logo"/>
-    </td>
-  </tr>
-</table>
-
-<p align="left">
-        Estudante de Engenharia de Software na UnB e <strong>Estagiário de TI na First Decision</strong>, focado em usar a engenharia para construir soluções de dados que sejam não apenas funcionais, mas também <strong>robustas e seguras</strong>.
-      </p>
-
----
-
-### 🚀 Minha Jornada e Foco Atual
-
-Minha paixão pela tecnologia me levou da Engenharia de Software para o universo da **Engenharia de Dados**, onde atuo hoje como estagiário. Meu objetivo é construir e automatizar os pipelines que garantem a integridade e a segurança das informações que movem o mundo digital.
-
-- 🎓 Atuando como **Estagiário de TI na First Decision**, com foco em migração de dados, ETL, automação com Python, Pentaho PDI e SQL.
-- 🌱 Estudando ativamente para a certificação **Cisco CCST Cybersecurity**, aprofundando em defesa de redes e gerenciamento de ameaças.
-- 💬 Aberto para conversar sobre Engenharia de Dados, desenvolvimento seguro (DevSecOps) e novas oportunidades.
+<h1 align="center">✨ Hi, I'm Pedro Arthur 👋</h1>
 
 <p align="center">
-  <a href="https://parthur.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
-  </a>
+💻 Software Engineering Student @ UnB <br>
+🚀 Data, AI & Cloud Intern @ First Decision <br>
+📊 Focused on Data Engineering & Modern Data Stack
 </p>
-
----
-
-### 🛠️ Minha Caixa de Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Back-End e Dados** | `Java`, `Python`, `SQL (MySQL, SQLite)`, `Node.js`, `APIs REST`, `Pandas` |
-| **Infraestrutura e DevOps**| `Shell Script`, `Linux`, `Docker`, `Git`, `GitHub` |
-| **Cibersegurança** | `Kali Linux`, `Wireshark` |
-| **Front-End** | `React.js`, `JavaScript`, `HTML5`, `CSS3` |
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql,sqlite,linux,react,javascript,nodejs,git,github,docker,kali&perline=6" />
-  </a>
-</p>
-
----
-
-### 💻 Projetos em Destaque
 
 <div align="center">
 
-#### ✈️ Decola-Brasil (Portal de Reservas Aéreas)
-*Aplicação Back-End onde o foco foi a **arquitetura de software (MVC)** e a **segurança de dados**, com a implementação de hashing de senhas para proteger as informações dos usuários.*
-
-[![Demo Decola-Brasil](https://raw.githubusercontent.com/PArthur006/epf-decola/main/static/img/DECOLA-BRASIL_apresentacao.gif)](https://github.com/PArthur006/epf-decola)
-
-**[➡️ Acessar Repositório](https://github.com/PArthur006/epf-decola)**
-
----
-#### 🎓 SIGA (Sistema de Gestão Acadêmica)
-*Aplicação desktop em **Java** que reforça conceitos de **Orientação a Objetos** e design de software, competências essenciais para os sistemas robustos que construo hoje.*
-
-[![Demo SIGA](https://raw.githubusercontent.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/main/SIGA-FCTE/assets/SIGA-FCTE_apresentacao.gif)](https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/)
-
-**[➡️ Acessar Repositório](https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/)**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Data+Engineering+Intern;Building+Data+Pipelines;Cloud+%26+Data+Analytics)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 📊 Minhas Estatísticas
+# 💡 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PArthur006&locale=pt-br&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="languages graph"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PArthur006&theme=dracula&show_icons=true&hide_border=false&count_private=true"/> 
-</p>
+I am a Software Engineering student at the **University of Brasília (UnB)** and currently working as an **Intern at First Decision**, focusing on Data Migration, AI, and Cloud environments.
+
+My goal is to build scalable, efficient, and reliable data architectures. I work daily with the challenges of moving and transforming corporate data to ensure it is ready for analysis and business intelligence.
+
+My daily battlefield involves: <br>
+✔ **Data Migration & ETL:** Extracting and moving critical data from legacy environments (SAP ECC) to modern databases (SAP HANA). <br>
+✔ **Data Pipelines:** Cleaning, transforming, and structuring raw data to make it accessible for analytics. <br>
+✔ **Continuous Learning:** Expanding my foundation in Cloud Computing (AWS) and big data processing frameworks (PySpark/Databricks). <br>
+
+🎯 **Current Goal:** Transitioning into a Junior Data Engineer role, solving complex architectural problems, and building end-to-end data pipelines.
 
 ---
 
-### 📫 Entre em Contato
+# 🚀 Tech Stack & Tools
 
-<p align="center">
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="SQL"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" title="Spark / PySpark"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" title="AWS"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Docker"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" title="Bash/Shell Script"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="VS Code"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align='center'>
+  
+### **[🛡️ Secure Lakehouse Pipeline](https://github.com/PArthur006/secure_lakehouse_pipeline)** (Data Engineering & LGPD)
+*An end-to-end data pipeline built with **PySpark** simulating a real-world corporate environment. It extracts data from multiple sources, applies **Data Masking/Hashing** on Personally Identifiable Information (PII) to comply with privacy laws, and loads the clean data for analytics.*
+
+
+### **[✈️ Decola-Brasil](https://github.com/PArthur006/epf-decola)** (Flight Booking Portal)
+*Backend application focused on **software architecture (MVC)** and database integration. Built to handle reservations, demonstrating solid backend logic and data structuring.* <br>
+[![Demo Decola-Brasil](https://raw.githubusercontent.com/PArthur006/epf-decola/main/static/img/DECOLA-BRASIL_apresentacao.gif)](https://github.com/PArthur006/epf-decola)
+
+
+### **[🎓 SIGA (Academic Management System)](https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/)**
+*Desktop application in **Java** that reinforces **Object-Oriented Programming** and relational database concepts, essential skills for understanding complex data models.* <br>
+[![Demo SIGA](https://raw.githubusercontent.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/main/SIGA-FCTE/assets/SIGA-FCTE_apresentacao.gif)](https://github.com/PArthur006/Sistema-Integrado-de-Gestao-Academica/)
+
+</div>
+
+---
+
+<!--
+# 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PArthur006&locale=pt-br&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="languages graph"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=PArthur006&theme=dracula&show_icons=true&hide_border=false&count_private=true"/> 
+</div>
+---
+-->
+
+## 📫 Let's Connect
+
+<div align="center">
   <a href="https://www.linkedin.com/in/parthurrod06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:parthur.rodrigues06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://api.whatsapp.com/send/?phone=5561991709506&text=Hi+Pedro%2C+I+found+your+profile+on+GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
+  <a href="https://api.whatsapp.com/send/?phone=5561991709506&text=Hi+Pedro%2C+I+found+your+profile+on+GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&animation=fadeIn"/>
+</div>
