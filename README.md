@@ -1,100 +1,94 @@
-<h1 align="center">✨ Hi, I'm Pedro Arthur 👋</h1>
+<h1 align="center">Pedro Arthur Rodrigues</h1>
 
 <p align="center">
-💻 Analysis and Systems Development (ADS) Student @ UCB <br>
-🚀 Data, AI & Cloud Intern @ First Decision <br>
-📊 Focused on Data Engineering & Modern Data Stack
+  <b>Data Engineer</b> focused on distributed pipelines, IoT/sensor ingestion, and modern lakehouse architectures.<br>
+  Currently working at the <b>AI Model Development Lab (Sensors & Data) @ CNT</b>.
 </p>
 
 <div align="center">
     <a href="https://parthur.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Data+Engineering;ADS+Student+%40+UCB;Building+Data+Pipelines;Cloud+%26+Data+Analytics)](https://git.io/typing-svg)
-
-</div>
-
----
-
-# 💡 About Me
-
-I am an Analysis and Systems Development (ADS) student at **Universidade Católica de Brasília (UCB)** and currently working as an **Intern at First Decision**, focusing on Data Migration, AI, and Cloud environments.
-
-My goal is to build scalable, efficient, and reliable data architectures. I work daily with the challenges of moving and transforming corporate data to ensure it is ready for analysis and business intelligence.
-
-My daily battlefield involves: <br>
-✔ **Data Migration & ETL:** Extracting and moving critical data from legacy environments (SAP ECC) to modern databases (SAP HANA). <br>
-✔ **Data Pipelines:** Cleaning, transforming, and structuring raw data to make it accessible for analytics. <br>
-✔ **Continuous Learning:** Expanding my foundation in Cloud Computing (AWS/OCI) and big data processing frameworks (PySpark/Databricks). <br>
-
-🎯 **Current Goal:** Transitioning into a Junior Data Engineer role, solving complex architectural problems, and building end-to-end data pipelines.
-
----
-
-# 🚀 Tech Stack & Tools
+<br>
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" title="Spark / PySpark"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" title="AWS"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux / Ubuntu"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Docker"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" title="Bash/Shell Script"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code"/>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Data+Engineering+%26+Distributed+Systems;Sensor+Telemetry+%26+Ingestion+for+AI;PySpark+%7C+Delta+Lake+%7C+Modern+Data+Stack;Cloud+Infrastructure+%26+DataOps" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-# 📌 Featured Projects
+### 💡 Engineering Background & Focus
 
-<div align='center'>
-  
-### **[🛡️ Secure Lakehouse Pipeline](https://github.com/PArthur006/secure_lakehouse_pipeline)** (Data Engineering, LGPD & Security)
-*An orchestrated end-to-end data pipeline built with **PySpark** and **Prefect**. It extracts data from corporate silos, applies **Dynamic Data Masking** and **Salted Hashing (SHA-256)** on PII to comply with privacy laws, and prepares features for Machine Learning.*
+I design and build resilient, production-ready data pipelines and scalable ingestion architectures. Currently, at the **AI Model Development Laboratory (Sensors & Data Sector) at CNT (Confederação Nacional do Transporte)**, I focus on handling sensor telemetries, structuring raw physical-world metrics, and preparing enterprise datasets for AI/ML workloads.
 
-### **[🛩️ ANAC Data Pipeline](https://github.com/PArthur006/anac-data-pipeline)** (Medallion Architecture & Resilience)
-*Analytical pipeline processing over 20 years of Brazilian aviation data. Built a **Star Schema Data Warehouse** (PostgreSQL) using **PySpark** for Silver layer transformations, with a **Graceful Degradation** mechanism via SQLAlchemy for high availability.*
-
-### **[✈️ Decola-Brasil](https://github.com/PArthur006/epf-decola)** (Flight Booking Portal)
-*Backend application focused on **software architecture (MVC)** and database integration. Built to handle reservations, demonstrating solid backend logic and data structuring.* <br>
-[![Demo Decola-Brasil](https://raw.githubusercontent.com/PArthur006/epf-decola/main/static/img/DECOLA-BRASIL_apresentacao.gif)](https://github.com/PArthur006/epf-decola)
-
-</div>
+**Core Areas of Expertise:**
+- **Sensor Data & AI Readiness:** Designing ingestion layers for IoT and sensor streams, transforming noisy edge metrics into structured datasets for analytical consumption and predictive modeling.
+- **Distributed Computing & Lakehouses:** Implementing Medallion Architectures (Bronze/Silver/Gold) with ACID compliance via Delta Lake, utilizing **PySpark** for high-throughput batch and stream transformations.
+- **Data Governance & Privacy-by-Design:** Embedding dynamic data masking and cryptographic salted hashing (SHA-256) into ingestion pipelines to guarantee compliance with privacy regulations (LGPD/GDPR).
+- **Enterprise Data Warehousing:** Dimensional modeling (Star Schema, SCD Type 2), SQL-driven data reconciliation, and automated orchestration (Prefect).
 
 ---
 
-# 📈 GitHub Stats
+### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PArthur006&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
-  ![](https://github-readme-stats.shion.dev/api?username=PArthur006&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages & Core** | `Python (3.10+)` `SQL (ANSI/PostgreSQL)` `Java` `Bash/Linux` |
+| **Distributed & Big Data** | `Apache Spark (PySpark)` `Delta Lake` `Databricks (Lakeflow)` |
+| **Data Warehousing & DBs** | `PostgreSQL` `SQLite` `Dimensional Modeling (Star Schema)` `SAP Data Services` |
+| **Orchestration & DataOps** | `Prefect` `Docker` `Git / GitHub Actions` `PyTest` |
+| **Cloud Infrastructure** | `Oracle Cloud Infrastructure (OCI Certified)` `AWS Fundamentals` |
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+### 📌 Flagship Engineering Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/PArthur006/secure_lakehouse_pipeline">🛡️ Secure Lakehouse Pipeline</a></h3>
+      <p align="center"><i>PySpark • Delta Lake • Prefect • Data Governance • LGPD</i></p>
+      <p>End-to-end modern Lakehouse implementing the Medallion pattern. Enforces <b>privacy-by-design</b> through automated dynamic data masking and salted SHA-256 cryptographic hashing to isolate Personally Identifiable Information (PII) before training Machine Learning models.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/PArthur006/anac-data-pipeline">🛩️ ANAC Analytical Pipeline</a></h3>
+      <p align="center"><i>PySpark • Parquet • Star Schema • PostgreSQL • Fault Tolerance</i></p>
+      <p>Scalable pipeline processing 20+ years (2000–2020) of Brazilian flight records. Implements distributed cleaning in PySpark, partitioned columnar storage (Parquet), and a <b>Graceful Degradation</b> fallback routing mechanism to ensure high availability.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/PArthur006/Projeto_BI_PDI-ETL_Vendas">📊 Enterprise ETL & SCD2 Warehouse</a></h3>
+      <p align="center"><i>PDI (Pentaho) • PostgreSQL • REST APIs • Dimensional Modeling</i></p>
+      <p>Enterprise data integration pipeline merging legacy CSV transactional streams with live external REST APIs. Features <b>Slowly Changing Dimensions (SCD Type 2)</b>, deterministic hashing for keyless datasets, and watermark-driven incremental ingestion.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/PArthur006/My-Personal-Portfolio">🌐 Interactive Systems Portfolio</a></h3>
+      <p align="center"><i>React.js • Context API • UI/UX • Systems Integration</i></p>
+      <p>Single-Page Application (SPA) serving as an interactive engineering hub. Demonstrates full-stack capability, client-side routing, and responsive application architecture to bridge core infrastructure with user interfaces.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Metrics & Activity
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/parthurrod06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:parthur.rodrigues06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PArthur006&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=PArthur006&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
+
+---
+
+<p align="center">
+  <a href="mailto:parthur.rodrigues06@gmail.com"><b>parthur.rodrigues06@gmail.com</b></a> • 
+  <a href="https://parthur.dev"><b>parthur.dev</b></a> • 
+  <a href="https://www.linkedin.com/in/parthurrod06/"><b>LinkedIn</b></a>
+</p>
